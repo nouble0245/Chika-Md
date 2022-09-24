@@ -22,27 +22,27 @@ global.APIKeys = {
 }
 
 //—————「 Setting Owner 」—————//
-global.owner = ['6281575886399','6281575886399','6281575886399'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
-global.premium = ['6281575886399'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
-global.ownernomer = '6281575886399' //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.owner = ['6283854644266','6283854644266','6283854644266'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.premium = ['6283854644266'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.ownernomer = '6283854644266' //ubah jadi nomor mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = 'Riy' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.botname = 'Chika-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.footer = 'Riy' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = 'Nouble' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.botname = 'Nouble-Bot' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.footer = 'Nouble' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Kebutuhan Button & Kontak 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
-global.youtube = 'https://youtube.com/channel/UCtM-pDaaGVRe4BJ7w4qE4Bw'
-global.ig = 'https://instagram.com/riychdwayne'
-global.mygc = 'https://chat.whatsapp.com/CRY23lVKmXB7sCMhHmcwVw'
-global.myweb = 'https://s.id/chikabot'
-global.email = 'riychdwaynee@gmail.com'
+global.youtube = ''
+global.ig = ''
+global.mygc = 'not found'
+global.myweb = ''
+global.email = ''
 global.region = 'indonesia'
 
 //—————「 Set Wm 」—————//
-global.packname = '© Chika-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.author = 'Riy' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.packname = '© Nouble-Bot' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.author = 'Nouble' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Session 」—————//
 //gausah di apa² in!
@@ -57,8 +57,8 @@ free: 15,
 
 //—————「 Set Image 」—————//
 //terserah mau ubah apa nggak, menurut gua jangan di ubah!
-global.thumb = fs.readFileSync('./image/chika.jpg')
-/*global.veloriy = fs.readFileSync('./image/chika.mp4')*/
+global.thumb = fs.readFileSync('./image/nani.jpg')
+/*global.veloriy = fs.readFileSync('./image/nani.mp4')*/
 
 //—————「 Set Image Welcome 」—————//
 //terserah mau ubah apa nggak, menurut gua jangan di ubah!
